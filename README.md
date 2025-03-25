@@ -43,11 +43,13 @@ EduQuest revolutionizes how you interact with your study materials. Whether you'
   <p>
     <img src="image1.jpg" alt="Main Screen" width="230"/>
     <img src="image2.jpg" alt="Quiz Creation" width="230"/>
-    <img src="image4.jpg" alt="Live Quiz" width="230"/>
+    <img src="image3.jpg" alt="Unlimited Files" width="230"/>
   </p>
   <p>
+    <img src="image4.jpg" alt="Create Sessions" width="230"/>
+    <img src="image5.jpg" alt="Live Quiz" width="230"/>
     <img src="image6.jpg" alt="Class Management" width="230"/>
-    <img src="image7.jpg" alt="Results Dashboard" width="230"/>
+    <img src="image7.jpg" alt="Clas Lobby" width="230"/>
   </p>
 </div>
 
