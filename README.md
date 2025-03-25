@@ -41,13 +41,13 @@ EduQuest revolutionizes how you interact with your study materials. Whether you'
 
 <div align="center">
   <p>
-    <img src="screenshot1.png" alt="Main Screen" width="230"/>
-    <img src="screenshot2.png" alt="Quiz Creation" width="230"/>
-    <img src="screenshot3.png" alt="Live Quiz" width="230"/>
+    <img src="image1.jpg" alt="Main Screen" width="230"/>
+    <img src="image2.jpg" alt="Quiz Creation" width="230"/>
+    <img src="image4.jpg" alt="Live Quiz" width="230"/>
   </p>
   <p>
-    <img src="screenshot4.png" alt="Class Management" width="230"/>
-    <img src="screenshot5.png" alt="Results Dashboard" width="230"/>
+    <img src="image6.jpg" alt="Class Management" width="230"/>
+    <img src="image7.jpg" alt="Results Dashboard" width="230"/>
   </p>
 </div>
 
