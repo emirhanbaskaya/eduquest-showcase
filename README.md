@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://apps.apple.com/tr/app/eduquest-pdf-to-quiz-with-ai/id6736775097?l=tr">
-    <img src="app-store-badge.png" alt="Download on the App Store" width="180"/>
+    <img src="app-store-download-badge-2icpq6ssi2xwnpyo-2icpq6ssi2xwnpyo.png" alt="Download on the App Store" width="180"/>
   </a>
 </div>
 
