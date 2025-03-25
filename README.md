@@ -94,7 +94,7 @@ Have questions or suggestions? We'd love to hear from you!
 <div align="center">
   <p>Download EduQuest today and transform how you learn!</p>
   <a href="https://apps.apple.com/tr/app/eduquest-pdf-to-quiz-with-ai/id6736775097?l=tr">
-    <img src="app_store_badge.svg.png" alt="Download on the App Store" width="180"/>
+    <img src="assets/app_store_badge.svg.png" alt="Download on the App Store" width="180"/>
   </a>
   <p>For more information, visit <a href="https://eduquestapp.com">eduquestapp.com</a></p>
 </div>
