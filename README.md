@@ -1,7 +1,7 @@
 # EduQuest: AI-Powered PDF to Quiz Transformation
 
 <div align="center">
-  <img src="assets/app-logo.png" alt="EduQuest Logo" width="200"/>
+  <img src="logo_transparant.png" alt="EduQuest Logo" width="200"/>
   <br>
   <br>
   <a href="https://apps.apple.com/tr/app/eduquest-pdf-to-quiz-with-ai/id6736775097?l=tr">
