@@ -1,11 +1,11 @@
 # EduQuest: AI-Powered PDF to Quiz Transformation
 
 <div align="center">
-  <img src="logo_transparant.png" alt="EduQuest Logo" width="200"/>
+  <img src="assets/logo_transparant.png" alt="EduQuest Logo" width="200"/>
   <br>
   <br>
   <a href="https://apps.apple.com/tr/app/eduquest-pdf-to-quiz-with-ai/id6736775097?l=tr">
-    <img src="app_store_badge.svg.png" alt="Download on the App Store" width="180"/>
+    <img src="assets/app_store_badge.svg.png" alt="Download on the App Store" width="180"/>
   </a>
 </div>
 
@@ -41,17 +41,17 @@ EduQuest revolutionizes how you interact with your study materials. Whether you'
 
 <div align="center">
   <p>
-    <img src="image1.jpg" alt="Main Screen" width="230"/>
-    <img src="image2.jpg" alt="Quiz Creation" width="230"/>
-    <img src="image3.jpg" alt="Unlimited Files" width="230"/>
+    <img src="assets/image1.jpg" alt="Main Screen" width="230"/>
+    <img src="assets/image2.jpg" alt="Quiz Creation" width="230"/>
+    <img src="assets/image3.jpg" alt="Unlimited Files" width="230"/>
   </p>
   <p>
-    <img src="image4.jpg" alt="Create Sessions" width="230"/>
-    <img src="image5.jpg" alt="Live Quiz" width="230"/>
-    <img src="image6.jpg" alt="Class Management" width="230"/>
+    <img src="assets/image4.jpg" alt="Create Sessions" width="230"/>
+    <img src="assets/image5.jpg" alt="Live Quiz" width="230"/>
+    <img src="assets/image6.jpg" alt="Class Management" width="230"/>
   </p>
   <p>
-    <img src="image7.jpg" alt="Class Lobby" width="230"/>
+    <img src="assets/image7.jpg" alt="Class Lobby" width="230"/>
   </p>
 </div>
 
