@@ -49,8 +49,6 @@ EduQuest revolutionizes how you interact with your study materials. Whether you'
     <img src="assets/image4.jpg" alt="Create Sessions" width="230"/>
     <img src="assets/image5.jpg" alt="Live Quiz" width="230"/>
     <img src="assets/image6.jpg" alt="Class Management" width="230"/>
-  </p>
-  <p>
     <img src="assets/image7.jpg" alt="Class Lobby" width="230"/>
   </p>
 </div>
